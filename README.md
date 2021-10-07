@@ -18,4 +18,4 @@ A simple program to create linear equation from 2 points.
 ![alt text](https://github.com/hisazakura/Linear-Equation-From-2-Points/blob/master/Line%20From%20Two%20Points/preview.png?raw=true)
 ## Known Errors
 - Problems if x1 = x2 or y1 = y2 since it will result in division by zeros
-- Powers with more than one digit will not work. This is due to most graphing calculators' notation.
+- Powers with more than one digit does not work. This is due to some graphing calculators' notation.
