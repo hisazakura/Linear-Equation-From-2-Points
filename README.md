@@ -11,7 +11,7 @@ A simple program to create linear equation from 2 points.
 - Rational numbers (a/b for fractions and use dot (.) for decimals
 - Real numbers (use corresponding symbols for constants (ex. π for pi), a^(b) for powers[^1])
 
-[^1]: View known errors.
+[^1]: View [known errors](https://github.com/hisazakura/Linear-Equation-From-2-Points/blob/master/README.md#known-errors).
 ### Unsupported Number Types
 - Powers (only supports one digit power (ex. 2^2) but no more (ex. 2^(1/2) does not work))
 ## Preview
